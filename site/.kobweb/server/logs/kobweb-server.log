@@ -1,0 +1,24 @@
+2023-12-09 19:15:28.029 [main] DEBUG ktor.application - Java Home: /opt/homebrew/Cellar/openjdk@17/17.0.9/libexec/openjdk.jdk/Contents
+2023-12-09 19:15:28.030 [main] DEBUG ktor.application - Class Loader: jdk.internal.loader.ClassLoaders$AppClassLoader@531d72ca: [file:/Users/ahmedhnewa/development/playground/framework_based/kobweb/kobweb_quill_kt/site/.kobweb/server/server.jar!/ch]
+2023-12-09 19:15:28.042 [main] WARN  ktor.application - API jar specified but does not exist! Please fix conf.yaml. Invalid path: "build/libs/app.jar"
+2023-12-09 19:15:28.069 [main] INFO  ktor.application - Application started in 0.077 seconds.
+2023-12-09 19:15:28.144 [main] INFO  ktor.application - Responding at http://0.0.0.0:8080
+2023-12-09 19:15:37.692 [eventLoopGroupProxy-4-1] DEBUG ktor.application - Client connected and is requesting kobweb status events.
+2023-12-09 19:15:44.409 [eventLoopGroupProxy-4-1] DEBUG ktor.application - Stopped sending kobweb status events, probably because client disconnected or server is shutting down. (ChannelWriteException: Cannot write to a channel)
+2023-12-09 19:15:44.950 [eventLoopGroupProxy-4-2] DEBUG ktor.application - Client connected and is requesting kobweb status events.
+2023-12-09 19:16:34.847 [eventLoopGroupProxy-4-2] DEBUG ktor.application - Stopped sending kobweb status events, probably because client disconnected or server is shutting down. (ChannelWriteException: Cannot write to a channel)
+2023-12-09 19:16:34.973 [eventLoopGroupProxy-4-3] DEBUG ktor.application - Client connected and is requesting kobweb status events.
+2023-12-09 19:16:48.672 [eventLoopGroupProxy-4-3] DEBUG ktor.application - Stopped sending kobweb status events, probably because client disconnected or server is shutting down. (ChannelWriteException: Cannot write to a channel)
+2023-12-09 19:16:48.931 [eventLoopGroupProxy-4-4] DEBUG ktor.application - Client connected and is requesting kobweb status events.
+2023-12-09 19:16:58.056 [eventLoopGroupProxy-4-4] DEBUG ktor.application - Stopped sending kobweb status events, probably because client disconnected or server is shutting down. (ChannelWriteException: Cannot write to a channel)
+2023-12-09 19:16:58.228 [eventLoopGroupProxy-4-5] DEBUG ktor.application - Client connected and is requesting kobweb status events.
+2023-12-09 19:17:36.865 [eventLoopGroupProxy-4-5] DEBUG ktor.application - Stopped sending kobweb status events, probably because client disconnected or server is shutting down. (ChannelWriteException: Cannot write to a channel)
+2023-12-09 19:17:37.166 [eventLoopGroupProxy-4-6] DEBUG ktor.application - Client connected and is requesting kobweb status events.
+2023-12-09 19:18:08.460 [eventLoopGroupProxy-4-6] DEBUG ktor.application - Stopped sending kobweb status events, probably because client disconnected or server is shutting down. (ChannelWriteException: Cannot write to a channel)
+2023-12-09 19:18:08.943 [eventLoopGroupProxy-4-7] DEBUG ktor.application - Client connected and is requesting kobweb status events.
+2023-12-09 19:21:48.969 [eventLoopGroupProxy-4-7] DEBUG ktor.application - Stopped sending kobweb status events, probably because client disconnected or server is shutting down. (ChannelWriteException: Cannot write to a channel)
+2023-12-09 19:21:49.203 [eventLoopGroupProxy-4-8] DEBUG ktor.application - Client connected and is requesting kobweb status events.
+2023-12-09 19:22:35.676 [eventLoopGroupProxy-4-8] DEBUG ktor.application - Stopped sending kobweb status events, probably because client disconnected or server is shutting down. (ChannelWriteException: Cannot write to a channel)
+2023-12-09 19:22:36.108 [eventLoopGroupProxy-4-9] DEBUG ktor.application - Client connected and is requesting kobweb status events.
+2023-12-09 19:37:40.467 [kotlinx.coroutines.DefaultExecutor] INFO  ktor.application - Kobweb server shutting down...
+2023-12-09 19:37:42.551 [kotlinx.coroutines.DefaultExecutor] INFO  ktor.application - Server finished shutting down.
